@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,24,30&height=220&section=header&text=Vibhav%20Mishra&fontSize=46&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Engineer%20%7C%20LLMs%20%26%20Computer%20Vision&descSize=18&descAlignY=62&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Vibhav%20Mishra&fontSize=48&fontAlignY=38&desc=AI%20and%20Machine%20Learning%20Engineer%20%7C%20LLMs%20and%20Computer%20Vision&descSize=18&descAlignY=62&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <!-- ANIMATED TYPING SUBTITLE -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5D4&center=true&vCenter=true&width=620&height=50&lines=LLM+Post-Training+%26+RLHF+Alignment;Computer+Vision+%26+Deep+Learning+Pipelines;Building+Autonomous+AI+Agents+with+RAG+%26+LangChain;B.Tech+CSE+%40+Lovely+Professional+University" alt="Typing SVG" />
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5D4&center=true&vCenter=true&width=620&height=50&lines=LLM+Post-Training+and+RLHF+Alignment;Computer+Vision+and+Deep+Learning+Pipelines;Building+Autonomous+AI+Agents+with+RAG;B.Tech+CSE+at+Lovely+Professional+University" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -41,7 +41,7 @@ Specialized In: Fine-tuning, RLHF Alignment, Satellite Remote Sensing, Agentic R
 
 #### Programming Languages
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,java&perline=6" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,java&perline=6" alt="Languages" />
 </a>
 
 <br/>
@@ -49,27 +49,29 @@ Specialized In: Fine-tuning, RLHF Alignment, Satellite Remote Sensing, Agentic R
 #### Machine Learning, Deep Learning & Vision
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,opencv&perline=6" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&perline=6" alt="ML Frameworks" />
   </a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
 </p>
 
 <br/>
 
 #### Developer Tools, Databases & Platforms
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux&perline=6" />
-</a>
 <p align="center">
-  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat-square&logo=googleearth&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux&perline=6" alt="Tools" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat-square&logo=google&logoColor=white" alt="GEE" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Colab" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
 </div>
@@ -80,9 +82,9 @@ Specialized In: Fine-tuning, RLHF Alignment, Satellite Remote Sensing, Agentic R
 
 | Project | Description | Core Stack | Links |
 | :--- | :--- | :--- | :---: |
-| **ML-Powered Illegal Construction Detection** | Cloud-based satellite imagery segmentation pipeline (U-Net & CNN) deployed on Google Earth Engine across 5+ diverse terrain types. Achieved **95% accuracy** on held-out test data. | `Python` `TensorFlow` `U-Net` `Google Earth Engine` `Sentinel-2` | [Repository](https://github.com/mishra-vibhav/ML-Powered-Illegal-Construction-Detection) |
-| **AI-Powered Comic & Graphic Novel Generator** | Automated pipeline converting narrative text into multi-panel comics. Fine-tuned GAN & Stable Diffusion models with transformer-based text encoders, reducing scene inconsistency by **70%**. | `Python` `NLP` `GANs` `Stable Diffusion` `Transformers` | [Repository](https://github.com/mishra-vibhav/AI-Powered-Comic-Graphic-Novel-Generator) |
-| **YouTube Video Summarizer & Translator** | End-to-end multi-algorithm summarization web app extracting audio, transcribing, and generating multi-lingual abstractive summaries with TTS output. | `Python` `Streamlit` `NLTK` `spaCy` `Hugging Face` | [Repository](https://github.com/mishra-vibhav/youtube_video_summerizer) |
+| **ML-Powered Illegal Construction Detection** | Cloud-based satellite imagery segmentation pipeline (U-Net & CNN) deployed on Google Earth Engine across 5+ diverse terrain types. Achieved **95% accuracy** on held-out test data. | `Python` `TensorFlow` `U-Net` `Google Earth Engine` `Sentinel-2` | [Repository](https://github.com/mishra-vibhav) |
+| **AI-Powered Comic & Graphic Novel Generator** | Automated pipeline converting narrative text into multi-panel comics. Fine-tuned GAN & Stable Diffusion models with transformer-based text encoders, reducing scene inconsistency by **70%**. | `Python` `NLP` `GANs` `Stable Diffusion` `Transformers` | [Repository](https://github.com/mishra-vibhav) |
+| **YouTube Video Summarizer & Translator** | End-to-end multi-algorithm summarization web app extracting audio, transcribing, and generating multi-lingual abstractive summaries with TTS output. | `Python` `Streamlit` `NLTK` `spaCy` `Hugging Face` | [Repository](https://github.com/mishra-vibhav) |
 
 ---
 
@@ -102,7 +104,7 @@ Specialized In: Fine-tuning, RLHF Alignment, Satellite Remote Sensing, Agentic R
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mishra-vibhav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vibhav's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mishra-vibhav&show_icons=true&theme=tokyonight&hide_border=true" alt="Vibhav's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishra-vibhav&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
@@ -117,7 +119,7 @@ Specialized In: Fine-tuning, RLHF Alignment, Satellite Remote Sensing, Agentic R
 <div align="center">
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,24,30&height=110&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 
 <sub>Built with curiosity, coffee, and code. Feel free to connect! 🚀</sub>
 
